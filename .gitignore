@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+.venv/
+venv/
+
+# Local secrets/env files
+.env
+.streamlit/secrets.toml
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
